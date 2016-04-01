@@ -13,4 +13,5 @@ class ApplicationController < ActionController::Base
 
   def mundo
   	render text: "Hola, mundo!"
+  end
 end
